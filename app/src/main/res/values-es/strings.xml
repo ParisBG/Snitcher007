@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Que-snitch</string>
+    <string name="crime_title_hint">Introduzca un título para el crimen.</string>
+    <string name="crime_title_label">Título</string>
+    <string name="crime_details_label">Detalles</string>
+    <string name="crime_solved_label">Resuelto</string>
+    <string name="crime_title">Título del crimen</string>
+    <string name="crime_date">Fecha del crimen</string>
+    <string name="date_picker_title">Fecha del crimen</string>
+    <string name="new_crime">Nuevo crimen</string>
+    <string name="show_subtitle">Mostrar subtitulo</string>
+    <string name="hide_subtitle">Ocultar subtítulo</string>
+    <string name="subtitle_format">%1$d crímenes</string>
+    <string name="crime_report">%1$s El crimen fue descubierto en %2$s. %3$s, y %4$s</string>
+    <string name="crime_report_solved">The case is solved!</string>
+    <string name="crime_report_unsolved">The case is not solved!</string>
+    <string name="crime_report_no_suspect">There is no suspect!</string>
+    <string name="crime_report_suspect">The suspect is %s!</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Select An App To Send All Of Your Porn&#8230;</string>
+    <string name="send_crime_report_button">SEND CRIME REPORT</string>
+    <string name="choose_suspect_button">CHOOSE SUSPECT</string>
+
+</resources>
